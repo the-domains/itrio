@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T15:41:37.134Z'
-dateModified: '2015-12-19T15:41:04.707Z'
+datePublished: '2015-12-19T15:42:46.701Z'
+dateModified: '2015-12-19T15:42:41.420Z'
 title: Press reviews
 author: []
+sourcePath: _posts/2015-12-19-press-reviews.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-press-reviews.md
-published: true
 url: press-reviews/index.html
 _type: WebPage
 
