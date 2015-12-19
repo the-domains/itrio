@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T15:44:13.244Z'
-dateModified: '2015-12-19T15:44:04.509Z'
+datePublished: '2015-12-19T15:47:48.242Z'
+dateModified: '2015-12-19T15:47:41.501Z'
 title: Press reviews
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
