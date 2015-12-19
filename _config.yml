@@ -1,7 +1,7 @@
 name: iTrio
 favicon: null
-layout_spectrum: 0.06985333631746471
-typography_spectrum: 0.04406036250293255
+layout_spectrum: 0.09488
+typography_spectrum: 0.71583
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8445804074872285
-  lightness: 0.18666612915694714
-  saturation: 0.3906390550546348
-  rhythmicContrast: 0.2047561490908265
+    - '#6b89d8'
+    - '#ffffff'
+    - '#c5c8bd'
+    - '#1b1f30'
+    - '#4c6199'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
