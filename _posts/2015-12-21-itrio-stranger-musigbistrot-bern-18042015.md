@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - urs
   - wayne
 description: iTrio youtube channel
-datePublished: '2015-12-21T14:10:20.190Z'
-dateModified: '2015-12-21T14:10:16.433Z'
+datePublished: '2015-12-21T14:11:45.476Z'
+dateModified: '2015-12-21T14:11:39.633Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
