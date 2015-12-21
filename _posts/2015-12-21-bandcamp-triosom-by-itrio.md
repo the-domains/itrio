@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://itrio.bandcamp.com/releases'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,21 +15,22 @@ keywords:
   - music
   - sch
   - mp3
-description: 'Triosom by I.Trio, released 01 March 2009 1. Eiger 2. Triosom 3. Winterwind 4. Istanbul 5. Right 6. Stranger 7. Grandprix 8. One Of Them Cave17 29.04.09 "I.Trio, Triosom: Jazz-rock threesome from Europe led by guitarist Jan Trösch, who dares to ask the musical question "Can one shred tastefully?"'
-datePublished: '2015-12-21T14:26:09.044Z'
-dateModified: '2015-12-21T14:25:48.781Z'
+description: 'Triosom by I.Trio, released 01 March 2009 1. Eiger 2. Triosom 3. Winterwind 4. Istanbul 5. Right 6. Stranger 7. Grandprix 8. One Of Them'
+datePublished: '2015-12-21T15:04:26.103Z'
+dateModified: '2015-12-21T14:46:39.734Z'
 author: []
 related: []
 app_links: []
-title: 'Bandcamp - Triosom, by I.Trio'
+title: Sounds
+sourcePath: _posts/2015-12-21-bandcamp-triosom-by-itrio.md
+published: true
 authors: []
 publisher:
   name: I.Trio
   domain: itrio.bandcamp.com
   url: 'http://itrio.bandcamp.com'
   favicon: 'http://f1.bcbits.com/img/a0314043209_3.jpg'
-sourcePath: _posts/2015-12-21-bandcamp-triosom-by-itrio.md
-published: true
+url: sounds/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
