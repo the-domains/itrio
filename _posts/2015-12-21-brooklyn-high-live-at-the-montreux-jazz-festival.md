@@ -17,8 +17,8 @@ keywords:
   - partindo
   - quintela
 description: 'i.Trio live at the Montreux Jazz Festival Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums'
-datePublished: '2015-12-21T14:33:22.754Z'
-dateModified: '2015-12-21T14:33:16.875Z'
+datePublished: '2015-12-21T14:38:01.900Z'
+dateModified: '2015-12-21T14:37:58.400Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
