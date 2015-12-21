@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: iTrio press reviews
-datePublished: '2015-12-21T14:06:57.390Z'
-dateModified: '2015-12-21T14:06:46.710Z'
-title: Cave17
+datePublished: '2015-12-21T14:11:00.751Z'
+dateModified: '2015-12-21T14:10:56.358Z'
+title: Press Reviews
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
 published: true
@@ -22,7 +22,9 @@ url: press-reviews/index.html
 _type: WebPage
 
 ---
-# Cave17
+# Press Reviews
+
+# Cave 17
 
 I.Trio,
 Triosom: Jazz-rock threesome from Europe led by guitarist Jan Trösch, who dares
