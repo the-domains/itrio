@@ -17,8 +17,8 @@ keywords:
   - quartet
   - erkan
 description: 'i.Trio live at The Montreux Jazz Festival Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums'
-datePublished: '2015-12-21T14:26:09.064Z'
-dateModified: '2015-12-21T14:24:30.760Z'
+datePublished: '2015-12-21T14:32:36.851Z'
+dateModified: '2015-12-21T14:32:31.532Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=R2l4He3dLHU&feature=applinks'
     type: web
 title: Istanbul - live at the Montreux Jazz Festival
+sourcePath: _posts/2015-12-21-istanbul-live-at-the-montreux-jazz-festival.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-21-istanbul-live-at-the-montreux-jazz-festival.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
