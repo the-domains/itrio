@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: iTrio press reviews
-datePublished: '2015-12-21T14:30:08.052Z'
-dateModified: '2015-12-21T14:30:05.196Z'
+datePublished: '2015-12-21T14:38:38.259Z'
+dateModified: '2015-12-21T14:38:21.287Z'
 title: Press Reviews
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
