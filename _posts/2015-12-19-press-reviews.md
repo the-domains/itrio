@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-21T13:48:25.640Z'
-dateModified: '2015-12-21T13:48:21.341Z'
+datePublished: '2015-12-21T13:52:35.274Z'
+dateModified: '2015-12-21T13:52:29.305Z'
 title: Press reviews
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: press-reviews/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Press reviews
@@ -33,8 +33,7 @@ Pat Metheny Trio stuff except with a couple different variations like "let's
 weird things up with synths" ("Triosom" itself) and "let's sound as much like
 African guitar groovemeisters as we can" ("Istanbul"). Very enjoyable, grows on
 me every new listen like a fungus, might be some kind of genius hiding there in
-Switzerland.
-
+Switzerland.  
 Matt Cibula - Cave17
 
 Un trio: guitare,basse et batterie. Un trio qui ne
@@ -71,7 +70,7 @@ L'album è piuttosto breve (poco meno di trentatre minuti) e gli otto brani sono
 tutti fra i tre e i cinque minuti, appena superati in un solo caso. Sono
 piccole miniature cesellate ed eleganti, veicoli perfetti per l'interplay
 maturo dei tre protagonisti. Gli spunti tematici sono sempre risolti con grazie
-e coerenza, senza lasciare nulla al caso.  
+e coerenza, senza lasciare nulla al caso.
 
 Il mood è quello del jazz
 contemporaneo carico di rimandi e richiami. Qualche stilema rock fa capolino
@@ -85,6 +84,3 @@ Missouri, ma è solo una piccola illusione. Finito il sogno ci accorgiamo di
 essere sempre rimasti nella cara vecchia Svizzera, paese ideale per coltivare
 un suono e farlo crescere con garbo e determinazione.  
 Maurizio Comandini - All About Jazz
-
-null
-null
