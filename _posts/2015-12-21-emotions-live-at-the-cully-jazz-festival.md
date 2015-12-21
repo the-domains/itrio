@@ -17,8 +17,8 @@ keywords:
   - avishai
   - emotional
 description: 'i.Trio live at the Cully Jazz Festival Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums'
-datePublished: '2015-12-21T14:34:46.233Z'
-dateModified: '2015-12-21T14:34:43.557Z'
+datePublished: '2015-12-21T18:01:09.478Z'
+dateModified: '2015-12-21T18:01:03.181Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
