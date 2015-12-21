@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
@@ -15,9 +15,9 @@ keywords:
   - wittwer
   - urs
   - wayne
-description: 'Stranger by i.Trio Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums Recorded live at the Musigbistrot Monbijou in Bern on the 18th of April 2015'
-datePublished: '2015-12-21T14:06:22.291Z'
-dateModified: '2015-12-21T14:06:15.865Z'
+description: iTrio youtube channel
+datePublished: '2015-12-21T14:10:20.190Z'
+dateModified: '2015-12-21T14:10:16.433Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -34,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=NjzXIAaS474&list=PLiXsKXeMY5SMLqjWbc97ugN-7AmXqGwUa&feature=applinks'
     type: web
-title: 'i.Trio - Stranger - Musigbistrot, Bern, 18.04.2015'
+title: Videos
 sourcePath: _posts/2015-12-21-itrio-stranger-musigbistrot-bern-18042015.md
 published: true
 authors: []
