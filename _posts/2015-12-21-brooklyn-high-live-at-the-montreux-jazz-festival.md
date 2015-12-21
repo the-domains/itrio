@@ -17,8 +17,8 @@ keywords:
   - partindo
   - quintela
 description: 'i.Trio live at the Montreux Jazz Festival Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums'
-datePublished: '2015-12-21T14:26:09.334Z'
-dateModified: '2015-12-21T14:24:46.831Z'
+datePublished: '2015-12-21T14:33:22.754Z'
+dateModified: '2015-12-21T14:33:16.875Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
     type: web
 title: Brooklyn High - Live at the Montreux Jazz Festival
+sourcePath: _posts/2015-12-21-brooklyn-high-live-at-the-montreux-jazz-festival.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-21-brooklyn-high-live-at-the-montreux-jazz-festival.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
