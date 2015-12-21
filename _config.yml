@@ -1,20 +1,4 @@
-name: iTrio
-favicon: null
-layout_spectrum: 0.24369
-typography_spectrum: 0.71583
-title: iTrio - Fusion jazz from Switzerland
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#6b89d8'
@@ -24,6 +8,11 @@ color:
     - '#4c6199'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.25
   rhythmicContrast: 0.25
+  saturation: 0.25
+cta: {}
+layout_spectrum: 1
+name: iTrio
+opengraph: {}
 purpose: []
+typography_spectrum: 0.71583
