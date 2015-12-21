@@ -15,9 +15,9 @@ keywords:
   - music
   - sch
   - mp3
-description: 'Triosom by I.Trio, released 01 March 2009 1. Eiger 2. Triosom 3. Winterwind 4. Istanbul 5. Right 6. Stranger 7. Grandprix 8. One Of Them'
-datePublished: '2015-12-21T15:04:26.103Z'
-dateModified: '2015-12-21T14:46:39.734Z'
+description: Triosom by iTrio
+datePublished: '2015-12-21T17:47:26.468Z'
+dateModified: '2015-12-21T17:47:20.837Z'
 author: []
 related: []
 app_links: []
