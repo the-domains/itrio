@@ -17,8 +17,8 @@ keywords:
   - partindo
   - quintela
 description: iTrio live at the Montreux Jazz Festival
-datePublished: '2015-12-22T13:40:28.384Z'
-dateModified: '2015-12-22T13:33:19.020Z'
+datePublished: '2015-12-22T14:09:38.500Z'
+dateModified: '2015-12-22T14:09:31.932Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -35,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
     type: web
-title: Brooklyn High
+title: Brooklyn High - live
+sourcePath: _posts/2015-12-22-brooklyn-high.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-22-brooklyn-high.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
