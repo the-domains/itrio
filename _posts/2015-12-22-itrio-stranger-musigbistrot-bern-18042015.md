@@ -16,8 +16,8 @@ keywords:
   - urs
   - wayne
 description: 'Live at the Musigbistrot, Bern, 18.04.2015'
-datePublished: '2015-12-22T15:06:47.480Z'
-dateModified: '2015-12-22T15:06:40.493Z'
+datePublished: '2015-12-22T15:07:25.273Z'
+dateModified: '2015-12-22T15:07:20.105Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
