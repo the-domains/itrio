@@ -16,20 +16,20 @@ keywords:
   - sch
   - mp3
 description: 'Triosom, released 01 March 2009'
-datePublished: '2015-12-22T13:43:27.631Z'
-dateModified: '2015-12-22T13:26:01.192Z'
+datePublished: '2015-12-22T13:49:33.090Z'
+dateModified: '2015-12-22T13:49:29.908Z'
 author: []
 related: []
 app_links: []
 title: 'Sounds : Triosom, by I.Trio'
+sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
+published: true
 authors: []
 publisher:
   name: BandCamp
   domain: itrio.bandcamp.com
   url: 'http://bandcamp.com'
   favicon: 'https://f1.bcbits.com/img/a0314043209_3.jpg'
-sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
-published: true
 url: sounds-triosom-by-itrio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
