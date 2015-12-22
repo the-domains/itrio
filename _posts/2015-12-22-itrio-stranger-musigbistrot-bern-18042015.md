@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=NjzXIAaS474'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - urs
   - wayne
 description: 'Live at the Musigbistrot, Bern, 18.04.2015'
-datePublished: '2015-12-22T15:05:04.205Z'
-dateModified: '2015-12-22T15:04:57.205Z'
+datePublished: '2015-12-22T15:05:36.405Z'
+dateModified: '2015-12-22T15:05:32.007Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: stranger/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
