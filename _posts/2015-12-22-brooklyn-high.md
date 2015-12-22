@@ -6,19 +6,19 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
 inLanguage: en
 starred: false
 keywords:
-  - trio
   - duration
+  - trio
   - brooklyn
   - views
-  - faria
-  - high
-  - alto
-  - jazz
   - partindo
+  - faria
+  - alto
+  - high
   - quintela
+  - zico
 description: iTrio live at the Montreux Jazz Festival
-datePublished: '2015-12-22T14:09:38.500Z'
-dateModified: '2015-12-22T14:09:31.932Z'
+datePublished: '2015-12-22T15:28:06.350Z'
+dateModified: '2015-12-22T15:26:51.216Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -35,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
     type: web
-title: Brooklyn High - live
-sourcePath: _posts/2015-12-22-brooklyn-high.md
-published: true
+title: Brooklyn High
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+sourcePath: _posts/2015-12-22-brooklyn-high.md
+published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
