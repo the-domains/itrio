@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - musigbistrot
   - duration
@@ -16,8 +16,8 @@ keywords:
   - urs
   - wayne
 description: 'Live at the Musigbistrot, Bern, 18.04.2015'
-datePublished: '2015-12-22T15:05:36.405Z'
-dateModified: '2015-12-22T15:05:32.007Z'
+datePublished: '2015-12-22T15:06:47.480Z'
+dateModified: '2015-12-22T15:06:40.493Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
