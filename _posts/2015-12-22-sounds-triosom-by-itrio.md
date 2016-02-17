@@ -16,8 +16,8 @@ keywords:
   - sch
   - mp3
 description: 'Triosom, released 01 March 2009, new album coming soon'
-datePublished: '2015-12-28T08:46:36.931Z'
-dateModified: '2015-12-28T08:46:34.196Z'
+datePublished: '2016-02-17T20:46:54.531Z'
+dateModified: '2016-02-17T20:46:50.525Z'
 author: []
 related: []
 app_links: []
