@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: iTrio press reviews
-datePublished: '2016-02-17T20:54:52.768Z'
-dateModified: '2016-02-17T20:54:41.668Z'
+datePublished: '2016-02-20T19:00:31.281Z'
+dateModified: '2016-02-20T19:00:20.154Z'
 title: Press Reviews
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
