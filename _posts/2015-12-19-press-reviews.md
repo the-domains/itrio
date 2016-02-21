@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-21T20:47:21.100Z'
-dateModified: '2016-02-21T20:47:18.383Z'
+description: Press reviews
+datePublished: '2016-02-21T20:49:45.154Z'
+dateModified: '2016-02-21T20:49:41.242Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 # What the press says
+
+## Matt Cibula
 
 > Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland.
 
