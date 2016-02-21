@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: iTrio press reviews
-datePublished: '2016-02-21T04:44:46.631Z'
-dateModified: '2016-02-21T04:44:31.853Z'
+datePublished: '2016-02-21T18:32:23.493Z'
+dateModified: '2016-02-21T18:32:11.831Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 # What the press says
+
+> ## Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland.Matt Cibula
 
 ## Cave 17
 
