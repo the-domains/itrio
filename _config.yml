@@ -1,6 +1,6 @@
 name: 'iTrio - Fusion-Jazz from Switzerland '
 favicon: null
-layout_spectrum: 0.75382
+layout_spectrum: 0.38108
 typography_spectrum: 0.62404
 title: iTrio - Fusion-Jazz from Switzerland
 cta:
@@ -22,8 +22,8 @@ color:
     - '#c5c8bd'
     - '#1b1f30'
     - '#4c6199'
-  brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.5
+  brandStrength: 0.6875
+  lightness: 0.5625
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
