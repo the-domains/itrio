@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T20:13:31.109Z'
-dateModified: '2016-02-21T20:13:28.558Z'
+datePublished: '2016-02-21T20:13:52.172Z'
+dateModified: '2016-02-21T20:13:49.268Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
