@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland. '
-datePublished: '2016-02-21T20:28:23.938Z'
-dateModified: '2016-02-21T20:28:22.166Z'
+datePublished: '2016-02-21T20:28:47.704Z'
+dateModified: '2016-02-21T20:28:45.981Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: what-the-press-says/index.html
-_type: Article
+_type: WebPage
 
 ---
 # What the press says
