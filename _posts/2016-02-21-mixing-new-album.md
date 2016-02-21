@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Yes, mixing the new album! On its gooooood way!'
-datePublished: '2016-02-21T18:31:17.863Z'
-dateModified: '2016-02-21T18:31:13.527Z'
+datePublished: '2016-02-21T18:37:20.456Z'
+dateModified: '2016-02-21T18:37:16.337Z'
 author:
   - name: realitrio
     url: 'https://www.facebook.com/realitrio'
@@ -28,6 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-> Yes, mixing the new album! On its gooooood way!
-
 > Mixing new album at Benoit Piccand's Studio. Studer works great with Fractal audio!
