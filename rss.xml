@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iTrio - Fusion-Jazz from Switzerland]]></title>
+        <description><![CDATA[iTrio - Fusion-Jazz from Switzerland]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 20:47:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What the press says]]></title>
+            <description><![CDATA[<h1>What the press says</h1>]]></description>
+            <link>undefinedwhat-the-press-says/index.html</link>
+            <guid isPermaLink="false">f8c6a4a4-c321-42c3-92ff-88b4cae6d154</guid>
+            <pubDate>Sun, 21 Feb 2016 20:47:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
