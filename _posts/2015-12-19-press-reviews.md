@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: iTrio press reviews
-datePublished: '2016-02-20T19:00:31.281Z'
-dateModified: '2016-02-20T19:00:20.154Z'
-title: Press Reviews
+datePublished: '2016-02-21T04:44:46.631Z'
+dateModified: '2016-02-21T04:44:31.853Z'
+title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
 published: true
@@ -22,7 +22,7 @@ url: press-reviews/index.html
 _type: Article
 
 ---
-# Press Reviews
+# What the press says
 
 ## Cave 17
 
