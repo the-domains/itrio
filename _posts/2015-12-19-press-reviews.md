@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-21T20:07:16.942Z'
-dateModified: '2016-02-21T20:07:12.741Z'
+datePublished: '2016-02-21T20:13:31.109Z'
+dateModified: '2016-02-21T20:13:28.558Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
@@ -23,12 +23,6 @@ _type: Article
 
 ---
 # What the press says
-
-## Very enjoyable, grows on me
-every new listen like a fungus, might be some kind of genius hiding there in
-Switzerland.
-
-## Cave 17
 
 > I.Trio,
 > Triosom: Jazz-rock threesome from Europe led by guitarist Jan Trösch, who dares
@@ -75,3 +69,40 @@ l'AMR
 > sogar noch positiv auf. Das ist ein erfrischendes Lebenszeichen der Jazz
 > Gitarren Trio Fraktion und bietet der grossen Anzahl an Jazz Piano Trios
 > hervorrangend Paroli.
+
+## All About Jazz Italia
+
+> Questo album funziona come un piccolo orologio svizzero:
+> benissimo. Le composizioni sono del chitarrista Jan Trosch, il leader del
+> gruppo. Un chitarrista dotato di buona tecnica ed idee originali quanto basta.
+> Con lui troviamo un batterista preciso e incalzante come Urs Wittwer e il
+> bassista Pierre Sottas, musicista grintoso e con un bel suono profondo.  
+> L'album è piuttosto breve (poco meno di trentatre minuti) e gli otto brani sono
+> tutti fra i tre e i cinque minuti, appena superati in un solo caso. Sono
+> piccole miniature cesellate ed eleganti, veicoli perfetti per l'interplay
+> maturo dei tre protagonisti. Gli spunti tematici sono sempre risolti con grazie
+> e coerenza, senza lasciare nulla al caso.  
+> Il mood è quello del jazz contemporaneo carico di rimandi e richiami. Qualche
+> stilema rock fa capolino fra le nuvole e scalda ulteriormente lo scenario. In
+> particolare il secondo brano, quello che dà il titolo all'album, ci porta su
+> strade poco battute che profumano di western.In altre circostanze spuntano fuori i leoni e allora ci pare di essere
+> dalle parti del continente nero. Poi ci sembra di poterci tuffare nell'oceano
+> di erba delle pianure del Missouri, ma è solo una piccola illusione. Finito il
+> sogno ci accorgiamo di essere sempre rimasti nella cara vecchia Svizzera, paese
+> ideale per coltivare un suono e farlo crescere con garbo e determinazione.  
+> (Maurizio Comandini)
+
+## Swissdisc
+
+> Avec Triosom, c'est un jazz
+> métissé de rock et à l'occasion de world musique que propose le i.trio. Avec
+> Jan Trösch à la guitare, Pierre Sottas à la basse et Urs Wittwer, les
+> musiciens déploient ainsi des compositions variées et expressives. Tour à tour
+> tranquilles ou plus animées, mais jamais fiévreuses, elles déroulent des
+> ambiances originales, servies par des trames mélodiques complexes mais toujours
+> lisibles. Avec «Istambul», on ainsi de discrètes touches africaines, tandis que
+> «Stranger», un des coups de cœur de cet album, propose un leitmotiv qui glisse
+> vers un léger décalé \[...\] «Triosom», s'avère particulièrement prenant. Au
+> final, cet album assez bref, une demi-heure, s'avère donc une réussite, qui
+> confirme, si besoin était, la qualité d'ensemble des CD proposés par le label
+> Altrisuoni, bien connu de tous les amateurs de jazz.
