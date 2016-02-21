@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-21T20:13:52.172Z'
-dateModified: '2016-02-21T20:13:49.268Z'
+description: 'Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland. '
+datePublished: '2016-02-21T20:28:23.938Z'
+dateModified: '2016-02-21T20:28:22.166Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
@@ -23,6 +23,10 @@ _type: Article
 
 ---
 # What the press says
+
+> Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland.
+
+## Cave 17
 
 > I.Trio,
 > Triosom: Jazz-rock threesome from Europe led by guitarist Jan Trösch, who dares
