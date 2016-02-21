@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland. '
-datePublished: '2016-02-21T20:28:47.704Z'
-dateModified: '2016-02-21T20:28:45.981Z'
+datePublished: '2016-02-21T20:36:13.650Z'
+dateModified: '2016-02-21T20:36:12.947Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
