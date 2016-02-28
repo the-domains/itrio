@@ -17,8 +17,8 @@ keywords:
   - bandsintown
   - came_from
 description: 'The latest Tweets from iTrio (@itriomusic): "New album on its way! Check out mixing time : revamping with fractal audio : https://t.co/GOkMvvLewu"'
-datePublished: '2016-02-28T17:18:41.290Z'
-dateModified: '2016-02-28T17:18:38.235Z'
+datePublished: '2016-02-28T17:20:09.265Z'
+dateModified: '2016-02-28T17:19:59.523Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/567423583417143297/BOexnlYQ_400x400.jpeg'
@@ -30,7 +30,7 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-title: Twitter
+title: ''
 sourcePath: _posts/2016-02-28-the-latest-tweets-from-itrio-itriomusic-new-album-on-it.md
 published: true
 authors: []
