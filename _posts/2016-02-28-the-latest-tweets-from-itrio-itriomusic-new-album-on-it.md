@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://twitter.com/itriomusic'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - bandsintown
   - came_from
 description: 'The latest Tweets from iTrio (@itriomusic): "New album on its way! Check out mixing time : revamping with fractal audio : https://t.co/GOkMvvLewu"'
-datePublished: '2016-02-28T17:20:09.265Z'
-dateModified: '2016-02-28T17:19:59.523Z'
+datePublished: '2016-02-28T17:24:21.010Z'
+dateModified: '2016-02-28T17:24:14.419Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/567423583417143297/BOexnlYQ_400x400.jpeg'
@@ -39,6 +38,7 @@ publisher:
   domain: twitter.com
   url: 'https://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+url: twitter/index.html
 _type: Comment
 _context: 'http://schema.org'
 
