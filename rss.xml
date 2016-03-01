@@ -4,7 +4,7 @@
         <description><![CDATA[iTrio - Fusion-Jazz from Switzerland]]></description>
         <link>http://itrio.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 05:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 05:38:10 GMT</lastBuildDate>
         <atom:link href="http://itrio.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Emotions]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=R2l4He3dLHU</link>
             <guid isPermaLink="false">b1157eab-4407-499c-9675-afa4bc9516b0</guid>
             <pubDate>Sun, 28 Feb 2016 17:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presskit]]></title>
+            <description><![CDATA[<article><h1>Presskit</h1><p>Get out presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d0561a3346c4211f368a823afb6c1afdbfa3b44.jpg"></article>]]></description>
+            <link>http://www.itrio.ch/presskit.html</link>
+            <guid isPermaLink="false">4777ef43-8bc1-4919-bb62-09b74e58e795</guid>
+            <pubDate>Tue, 01 Mar 2016 05:18:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sounds : Triosom, by I.Trio]]></title>
