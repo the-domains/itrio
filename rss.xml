@@ -4,11 +4,18 @@
         <description><![CDATA[iTrio - Fusion-Jazz from Switzerland ]]></description>
         <link>http://itrio.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 08:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 15:08:09 GMT</lastBuildDate>
         <atom:link href="http://itrio.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Presskit]]></title>
+            <description><![CDATA[<article><h1>Presskit</h1><p>Get our presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7515cdad0e528c08191a8927fa19c1f7c9129ebd.jpg"></article>]]></description>
+            <link>http://booking.cheesecom.com/itrio/presskit.html</link>
+            <guid isPermaLink="false">5e4e08b7-bcae-4d3f-b90c-4c48a380b143</guid>
+            <pubDate>Tue, 12 Apr 2016 15:08:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emotions]]></title>
-            <description><![CDATA[<article><h1>Emotions</h1><p>iTrio live at the Cully Jazz Festival</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86d9e0f0f74beea5f53b907a34865a0b2c1f7c91.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Emotions</h1><p>iTrio live at the Cully Jazz Festival</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fbde92261300d5d5f0d0ad3a8513349b83399e8.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=WRe54mqu8AY</link>
             <guid isPermaLink="false">6aca06e8-4bfd-4e79-bff8-cd8fa8f8ac82</guid>
             <pubDate>Tue, 01 Mar 2016 08:22:50 GMT</pubDate>
@@ -21,13 +28,6 @@
             <pubDate>Tue, 01 Mar 2016 08:22:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brooklyn High]]></title>
-            <description><![CDATA[<article><h1>Brooklyn High</h1><p>iTrio live at the Montreux Jazz Festival</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0151a2f9c64117e1f14e0e5f2ac66f4529aa52af.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=KEbOY74UKbU</link>
-            <guid isPermaLink="false">0d5701a1-fb60-48bb-9c9c-39b480d0ff9c</guid>
-            <pubDate>Tue, 01 Mar 2016 08:21:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Istanbul]]></title>
             <description><![CDATA[<article><h1>Istanbul</h1><p>iTrio live at The Montreux Jazz Festival</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcfc72cb06d8278d3e0095231387a3431da3b85a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=R2l4He3dLHU</link>
@@ -35,11 +35,11 @@
             <pubDate>Tue, 01 Mar 2016 08:21:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Presskit]]></title>
-            <description><![CDATA[<article><h1>Presskit</h1><p>Get our presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7515cdad0e528c08191a8927fa19c1f7c9129ebd.jpg"></article>]]></description>
-            <link>http://booking.cheesecom.com/itrio/presskit.html</link>
-            <guid isPermaLink="false">5e4e08b7-bcae-4d3f-b90c-4c48a380b143</guid>
-            <pubDate>Tue, 01 Mar 2016 08:20:31 GMT</pubDate>
+            <title><![CDATA[Brooklyn High]]></title>
+            <description><![CDATA[<article><h1>Brooklyn High</h1><p>iTrio live at the Montreux Jazz Festival</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0151a2f9c64117e1f14e0e5f2ac66f4529aa52af.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=KEbOY74UKbU</link>
+            <guid isPermaLink="false">0d5701a1-fb60-48bb-9c9c-39b480d0ff9c</guid>
+            <pubDate>Tue, 01 Mar 2016 08:21:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sounds : Triosom, by I.Trio]]></title>
