@@ -4,8 +4,15 @@
         <description><![CDATA[iTrio - Fusion-Jazz from Switzerland ]]></description>
         <link>http://itrio.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 18:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 13:56:51 GMT</lastBuildDate>
         <atom:link href="http://itrio.ch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Presskit]]></title>
+            <description><![CDATA[<article><h1>Presskit</h1><p>Get our presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7515cdad0e528c08191a8927fa19c1f7c9129ebd.jpg"></article>]]></description>
+            <link>http://booking.cheesecom.com/itrio/presskit.html</link>
+            <guid isPermaLink="false">5e4e08b7-bcae-4d3f-b90c-4c48a380b143</guid>
+            <pubDate>Mon, 18 Apr 2016 13:56:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emotions]]></title>
             <description><![CDATA[<article><h1>Emotions</h1><p>iTrio live at the Cully Jazz Festival</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fbde92261300d5d5f0d0ad3a8513349b83399e8.jpg"></article>]]></description>
@@ -14,8 +21,8 @@
             <pubDate>Tue, 12 Apr 2016 18:38:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stranger]]></title>
-            <description><![CDATA[<article><h1>Stranger</h1><p>iTrio live at the Musigbistrot Monbijou in Bern</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d19eebb530c574dc83dbe0f3a78e45164427821d.jpg"></article>]]></description>
+            <title><![CDATA[i.Trio - Stranger - Musigbistrot, Bern, 18.04.2015]]></title>
+            <description><![CDATA[<article><h1>i.Trio - Stranger - Musigbistrot, Bern, 18.04.2015</h1><p>iTrio live at the Musigbistrot Monbijou in Bern</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d19eebb530c574dc83dbe0f3a78e45164427821d.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=NjzXIAaS474</link>
             <guid isPermaLink="false">9ca44d60-d76c-43a9-bd8c-59e84fa15064</guid>
             <pubDate>Tue, 12 Apr 2016 18:38:15 GMT</pubDate>
@@ -35,22 +42,15 @@
             <pubDate>Tue, 12 Apr 2016 18:38:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Presskit]]></title>
-            <description><![CDATA[<article><h1>Presskit</h1><p>Get our presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7515cdad0e528c08191a8927fa19c1f7c9129ebd.jpg"></article>]]></description>
-            <link>http://booking.cheesecom.com/itrio/presskit.html</link>
-            <guid isPermaLink="false">5e4e08b7-bcae-4d3f-b90c-4c48a380b143</guid>
-            <pubDate>Tue, 12 Apr 2016 18:31:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sounds : Triosom, by I.Trio]]></title>
-            <description><![CDATA[<article><h1>Sounds : Triosom, by I.Trio</h1><p>You can listen to our first album on Bandcamp (click above).</p></article>]]></description>
+            <description><![CDATA[<p>You can listen to our first album on Bandcamp (click above).</p>]]></description>
             <link>http://itrio.ch/sounds-triosom-by-itrio/index.html</link>
             <guid isPermaLink="false">663c5f59-9d8c-4215-b444-5125be19884b</guid>
             <pubDate>Sun, 21 Feb 2016 20:52:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the press says]]></title>
-            <description><![CDATA[<article><h1>What the press says</h1><h2>Matt Cibula</h2><p>Press reviews</p></article>]]></description>
+            <description><![CDATA[<article><h1>What the press says</h1><h2>Matt Cibula</h2></article>]]></description>
             <link>http://itrio.ch/what-the-press-says/index.html</link>
             <guid isPermaLink="false">f8c6a4a4-c321-42c3-92ff-88b4cae6d154</guid>
             <pubDate>Sun, 21 Feb 2016 20:49:45 GMT</pubDate>
