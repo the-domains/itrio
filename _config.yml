@@ -28,11 +28,11 @@ navigation:
   - name: The band
     id: 0654faad-a48b-4932-a8cb-ea31aaefb363
     type: content
-  - name: Contact
-    id: a2d46619-1816-423a-b40e-c5905b866855
-    type: content
   - name: What the press says
     id: f8c6a4a4-c321-42c3-92ff-88b4cae6d154
+    type: content
+  - name: Contact
+    id: a2d46619-1816-423a-b40e-c5905b866855
     type: content
   - name: Presskit
     url: 'http://presskit.itrio.ch/'
