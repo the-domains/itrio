@@ -37,5 +37,6 @@ navigation:
   - name: What the press says
     id: f8c6a4a4-c321-42c3-92ff-88b4cae6d154
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e667954-bbba-4844-a71a-696440deb2ab.jpg
 purpose: []
