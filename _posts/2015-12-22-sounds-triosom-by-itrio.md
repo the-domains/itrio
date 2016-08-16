@@ -1,9 +1,9 @@
 ---
+datePublished: '2016-08-16T20:43:09.737Z'
+sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: en
-starred: false
 keywords:
   - trio
   - rhythmic
@@ -15,21 +15,23 @@ keywords:
   - music
   - sch
   - mp3
-description: 'Triosom, released 01 March 2009, new album coming soon'
-datePublished: '2016-02-21T20:52:05.075Z'
-dateModified: '2016-02-21T20:38:01.146Z'
-author: []
 related: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-16T20:43:09.148Z'
+title: Triosom
 app_links: []
-title: 'Sounds : Triosom, by I.Trio'
-sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
-published: true
-authors: []
 publisher:
   name: BandCamp
   domain: itrio.bandcamp.com
-  url: 'http://bandcamp.com'
+  url: 'http://itrio.bandcamp.com'
   favicon: 'https://f1.bcbits.com/img/a0314043209_3.jpg'
+description: You can listen to our first album on Bandcamp (click above).
+inLanguage: en
+inNav: false
+starred: false
 url: sounds-triosom-by-itrio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
@@ -39,4 +41,4 @@ _type: MediaObject
 
 You can listen to our first album on Bandcamp (click above).
 
-Our new album is on its way and should arrive at the beginning of 2016\.
+Our new album is on its way and should arrive at the beginning of 2017\.
