@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Press reviews
-datePublished: '2016-02-21T20:49:45.154Z'
-dateModified: '2016-02-21T20:49:41.242Z'
+description: ''
+datePublished: '2016-08-16T20:35:45.102Z'
+dateModified: '2016-08-16T20:35:44.600Z'
 title: What the press says
 author: []
 sourcePath: _posts/2015-12-19-press-reviews.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: what-the-press-says/index.html
 _type: Article
 
