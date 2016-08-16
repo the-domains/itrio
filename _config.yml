@@ -31,5 +31,8 @@ navigation:
   - name: The band
     id: 0654faad-a48b-4932-a8cb-ea31aaefb363
     type: content
+  - name: Contact
+    id: a2d46619-1816-423a-b40e-c5905b866855
+    type: content
 favicon: null
 purpose: []
