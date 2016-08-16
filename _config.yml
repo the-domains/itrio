@@ -28,5 +28,8 @@ navigation:
   - name: Presskit
     url: 'http://presskit.itrio.ch/'
     type: external
+  - name: The band
+    id: 0654faad-a48b-4932-a8cb-ea31aaefb363
+    type: content
 favicon: null
 purpose: []
