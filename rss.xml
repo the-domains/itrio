@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[iTrio - Fusion-Jazz from Switzerland ]]></title>
-        <description><![CDATA[iTrio - Fusion-Jazz from Switzerland ]]></description>
+        <title><![CDATA[i.Trio - Fusion-Jazz from Switzerland]]></title>
+        <description><![CDATA[i.Trio - Fusion-Jazz from Switzerland]]></description>
         <link>http://itrio.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 20:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 20:43:11 GMT</lastBuildDate>
         <atom:link href="http://itrio.ch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Triosom]]></title>
+            <description><![CDATA[<article><h1>Triosom</h1><p>You can listen to our first album on Bandcamp (click above).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/020e2fc280f83f92a30a0c540aa42fd9bb64a13a.jpg"></article>]]></description>
+            <link>http://itrio.ch/sounds-triosom-by-itrio/index.html</link>
+            <guid isPermaLink="false">663c5f59-9d8c-4215-b444-5125be19884b</guid>
+            <pubDate>Tue, 16 Aug 2016 20:43:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What the press says]]></title>
             <description><![CDATA[<article><h1>What the press says</h1><h2>Matt Cibula</h2><p>Very enjoyable, grows on me every new listen like a fungus, might be some kind of genius hiding there in Switzerland.</p></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://www.youtube.com/watch?v=R2l4He3dLHU</link>
             <guid isPermaLink="false">b1157eab-4407-499c-9675-afa4bc9516b0</guid>
             <pubDate>Tue, 12 Apr 2016 18:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sounds : Triosom, by I.Trio]]></title>
-            <description><![CDATA[<p>You can listen to our first album on Bandcamp (click above).</p>]]></description>
-            <link>http://itrio.ch/sounds-triosom-by-itrio/index.html</link>
-            <guid isPermaLink="false">663c5f59-9d8c-4215-b444-5125be19884b</guid>
-            <pubDate>Sun, 21 Feb 2016 20:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
