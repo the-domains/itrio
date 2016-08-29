@@ -19,7 +19,7 @@ analytics:
   google: UA-82649324-1
   facebook: null
   twitter: null
-name: 'iTrio - Fusion-Jazz from Switzerland '
+name: iTrio
 cta:
   domain: null
   bucket: null
@@ -39,6 +39,6 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e667954-bbba-4844-a71a-696440deb2ab.jpg
-title: i.Trio
+title: Fusion-jazz from Switzerland
 description: Fusion-Jazz from Switzerland
 purpose: []
