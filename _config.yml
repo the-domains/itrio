@@ -1,38 +1,41 @@
-typography_spectrum: 0.36439
+typography_spectrum: 0.7013913576956838
 color:
   brandColors:
-    - '#6b89d8'
-    - '#ffffff'
-    - '#000000'
-    - '#aeb8c3'
-    - '#202337'
-  brandStrength: 0.875
-  lightness: 0.1875
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+    - '#6B89D8'
+    - '#FFFFFF'
+    - '#282C40'
+    - '#46647A'
+    - '#D4D6DA'
+  brandStrength: 0.3577339348848909
+  lightness: 0.06477286829613149
+  saturation: 0.6905889150220901
+  rhythmicContrast: 0.21623291331343353
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.70517
+layout_spectrum: 0.0751414685510099
 analytics:
   google: UA-82649324-1
   facebook: null
   twitter: null
-name: iTrio
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd088724-909f-4331-9323-36b6b1923138.png
+name: i.Trio
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: The band
-    id: 0654faad-a48b-4932-a8cb-ea31aaefb363
+  - name: The Band
+    id: df053d0d-fe9e-4c02-8ca6-6fae75a10669
     type: content
   - name: What the press says
     id: f8c6a4a4-c321-42c3-92ff-88b4cae6d154
     type: content
-  - name: Contact
-    id: a2d46619-1816-423a-b40e-c5905b866855
+  - name: Contact and tour dates
+    id: 9f66cc6e-1ddb-4073-a210-97b3d6c88dd5
     type: content
   - name: Presskit
     url: 'http://presskit.itrio.ch/'
@@ -40,5 +43,6 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e667954-bbba-4844-a71a-696440deb2ab.jpg
 title: i.Trio
+content: []
 description: Fusion-Jazz from Switzerland
 purpose: []
