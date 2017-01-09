@@ -20,8 +20,7 @@ analytics:
   google: UA-82649324-1
   facebook: null
   twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd088724-909f-4331-9323-36b6b1923138.png
+logo: null
 name: i.Trio
 cta:
   domain: null
