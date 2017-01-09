@@ -48,3 +48,6 @@ purpose:
   - type: external
     url: 'http://music.itrio.ch'
     label: Latest release
+  - type: contact
+    url: 'mailto:booking@itrio.ch'
+    label: Book us!
