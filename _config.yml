@@ -44,4 +44,7 @@ favicon: >-
 title: i.Trio
 content: []
 description: Rock-Fusion-Jazz from Switzerland
-purpose: []
+purpose:
+  - type: external
+    url: 'http://music.itrio.ch'
+    label: 'http://music.itrio.ch'
