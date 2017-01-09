@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-09T21:15:24.799Z'
+datePublished: '2017-01-09T21:15:46.354Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,11 +18,13 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-09T21:15:24.054Z'
+dateModified: '2017-01-09T21:15:45.840Z'
 title: Triosom
 app_links: []
 publisher: {}
-description: You can listen to our first album on Spotify (click on the image).
+description: >-
+  You can listen to our first album on Spotify (click below to go to our
+  Bandcamp page).
 inLanguage: en
 starred: false
 datePublishedOriginal: '2016-09-07T12:56:45.076Z'
@@ -33,7 +35,7 @@ _type: MediaObject
 ---
 # Triosom
 
-You can listen to our first album on Spotify (click on the image).
+You can listen to our first album on Spotify (click below to go to our Bandcamp page).
 
 Our new album is on its way and should arrive at the beginning of 2017\.
 
