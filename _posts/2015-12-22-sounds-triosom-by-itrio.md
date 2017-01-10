@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-10T08:03:41.831Z'
+datePublished: '2017-01-10T08:04:21.906Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-10T08:03:41.217Z'
+dateModified: '2017-01-10T08:04:21.434Z'
 title: Triosom
 app_links: []
 publisher: {}
@@ -36,7 +36,7 @@ _type: MediaObject
 ---
 # Triosom
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw90EFugzAQheGrWByAgTpKFYLZZdFdF7nA2B6wFRujsVFCT99QpM7qfbtf0_uRMZLIZQukKp3YEneiuYqnt8V14rNpltdVOPKTK504Nec3K5HZqMqVsnQAGmdrMC61SRFuUZO1ZL8DbsSAQa9RtWd5kvLSyg_I_odUQJ4I9GRSUPLvIPj5sbMZL-04AnJ5Jn6oHDEEKIxzXpBpLqrwSvAOIIyBch56FI5p_K-Ja_am9oV9qo07AmBXTrEa7scQehNf9Y4ecOjh-MLwC1cbXM4" height="406" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwdx9sKwjAMANA_MtaIMKGPvvsLaZvOsfRCmjH068c8b-dj1scTIFBNkUq_xFbgVQKnxOkt9GUFkrAV7x54R5wc3mAsP_ZCOjOEOTbx-Aey1PXsNU8uZyC1venqRyERMKU6OilX86YbwwFP6iss" height="406" style=""></iframe>
 
 <article style=""><h1>Bandcamp</h1></article>
 
