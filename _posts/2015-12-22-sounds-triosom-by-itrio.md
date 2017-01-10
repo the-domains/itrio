@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-10T11:09:23.916Z'
+datePublished: '2017-01-10T11:09:24.994Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-10T11:09:23.306Z'
+dateModified: '2017-01-10T11:09:24.693Z'
 title: Triosom
 app_links: []
 publisher: {}
