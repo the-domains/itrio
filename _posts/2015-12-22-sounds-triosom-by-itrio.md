@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-10T08:04:21.906Z'
+datePublished: '2017-01-10T08:05:46.914Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-10T08:04:21.434Z'
+dateModified: '2017-01-10T08:05:44.424Z'
 title: Triosom
 app_links: []
 publisher: {}
@@ -43,4 +43,4 @@ _type: MediaObject
 You can listen to our first album on Spotify (click below to go to our Bandcamp page). Our new album is on its way and should arrive at the beginning of 2017\.
 [Buy it!][0]
 
-[0]: http://bandcamp.com/EmbeddedPlayer/album=1634339132/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/
+[0]: http://music.itrio.ch/
