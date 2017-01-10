@@ -4,9 +4,9 @@
         <description><![CDATA[i.Trio]]></description>
         <link>http://itrio.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Jan 2017 12:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2017 19:52:11 GMT</lastBuildDate>
         <atom:link href="http://itrio.ch/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jan 2017 12:34:35 GMT</pubDate>
+        <pubDate>Tue, 10 Jan 2017 19:52:10 GMT</pubDate>
         <item>
             <title><![CDATA[Triosom]]></title>
             <description><![CDATA[<article><h1>Triosom</h1><p>Triosom is our first album released in 2009. Our new album is on its way and should arrive at the beginning of 2017.</p></article>]]></description>
@@ -27,6 +27,13 @@
             <link>https://www.youtube.com/watch?v=KEbOY74UKbU</link>
             <guid isPermaLink="false">0d5701a1-fb60-48bb-9c9c-39b480d0ff9c</guid>
             <pubDate>Thu, 08 Sep 2016 12:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Triosom]]></title>
+            <description><![CDATA[<article><h1>Triosom</h1><p>Triosom is our first album released in 2009. Our new album is on its way and should arrive at the beginning of 2017.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a04014048f7f0811ba6eb89d70cf76f0/noop.jpg?input=http%3A%2F%2Ff4.bcbits.com%2Fimg%2Fa0314043209_5.jpg"></article>]]></description>
+            <link>https://itrio.bandcamp.com/album/triosom</link>
+            <guid isPermaLink="false">8e357658-a60f-41ef-9959-35b1b91fb569</guid>
+            <pubDate>Tue, 10 Jan 2017 19:52:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emotions]]></title>
