@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-09T21:28:27.448Z'
+datePublished: '2017-01-10T07:53:13.970Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,11 +18,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-09T21:28:26.932Z'
+dateModified: '2017-01-10T07:53:13.421Z'
 title: Triosom
 app_links: []
-publisher:
-  name: Spotify
+publisher: {}
 description: >-
   You can listen to our first album on Spotify (click below to go to our
   Bandcamp page). Our new album is on its way and should arrive at the beginning
@@ -37,7 +36,7 @@ _type: MediaObject
 ---
 # Triosom
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fembed.spotify.com%2F%3Furi%3Dspotify%3Aalbum%3A3X6qLP53RyZTpvheM3x2T0&amp;url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F3X6qLP53RyZTpvheM3x2T0&amp;image=https%3A%2F%2Fi.scdn.co%2Fimage%2Fe4cd329c693b517c13416cc98c83c03dc92107b8&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=spotify" width="300" height="380" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw90EFugzAQheGrWByAgTpKFYLZZdFdF7nA2B6wFRujsVFCT99QpM7qfbtf0_uRMZLIZQukKp3YEneiuYqnt8V14rNpltdVOPKTK504Nec3K5HZqMqVsnQAGmdrMC61SRFuUZO1ZL8DbsSAQa9RtWd5kvLSyg_I_odUQJ4I9GRSUPLvIPj5sbMZL-04AnJ5Jn6oHDEEKIxzXpBpLqrwSvAOIIyBch56FI5p_K-Ja_am9oV9qo07AmBXTrEa7scQehNf9Y4ecOjh-MLwC1cbXM4" height="406" style=""></iframe>
 
 You can listen to our first album on Spotify (click below to go to our Bandcamp page). Our new album is on its way and should arrive at the beginning of 2017\.
 [Buy it!][0]
