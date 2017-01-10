@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-10T10:58:14.119Z'
+datePublished: '2017-01-10T11:01:32.017Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-10T10:58:13.060Z'
+dateModified: '2017-01-10T11:01:31.379Z'
 title: Triosom
 app_links: []
 publisher: {}
@@ -35,7 +35,9 @@ _type: MediaObject
 ---
 # Triosom
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxFjr0KwjAURnef4hJwTSqIQ5pmd_cF8lcTTJpwc4v27aUUdDtnOB-fSjOaEqDTlsPEbEUfUMIwwjt5ihIuw3AeIYb0jCThOtzaZ2TQ0U0sEjUpRMPQ-ysRT4SpcheFr24tYaEurFm8M6W1bLaAPFLJTCsDEcP8GyhrT-5fm2zXInbrtTD9OADsBne-ixJGn5Q4jmv4Ak4WQus" height="408" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKgzAQRff9iiHQbcZC6UKt--77A3mMJmhMSEasf1-t0MWFczYHbuv7rAJB4W2ip9AxW8o1VA2s3rKr4VZV1wYc-cFxDffqkT6NgJLNUzjmVCOu6yqNIypkYpD7UMc4-nlAz9lHTJlKGT2jjWYJNHNBrWZrVEhpUhtl6ThMomsVuEz9vxuW4o38NfY-qkkvAQ8rMYjufQLoDV7ykBZVd2nx_NPBFxDcS-Y" height="408" style=""></iframe>
+
+<article style=""><h1>iTrio - Triosom</h1></article>
 
 [Triosom][0] is our first album released in 2009\. Our new album is on its way and should arrive at the beginning of 2017\.
 [Buy it!][1]
