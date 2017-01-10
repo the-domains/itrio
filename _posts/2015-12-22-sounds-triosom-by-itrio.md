@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-10T08:08:52.273Z'
+datePublished: '2017-01-10T08:11:25.006Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,14 +18,13 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-10T08:08:51.568Z'
+dateModified: '2017-01-10T08:11:24.440Z'
 title: Triosom
 app_links: []
 publisher: {}
 description: >-
-  You can listen to our first album on Spotify (click below to go to our
-  Bandcamp page). Our new album is on its way and should arrive at the beginning
-  of 2017.
+  Triosom is our first album released in 2009. Our new album is on its way and
+  should arrive at the beginning of 2017.
 inLanguage: en
 starred: false
 datePublishedOriginal: '2016-09-07T12:56:45.076Z'
@@ -36,9 +35,9 @@ _type: MediaObject
 ---
 # Triosom
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkLFygzAQRH9FQx8OjMcZY0SXIp2L_MBJOpDGEmJOYjD5-kDYal-1b7ZzA2MgkfLmSRYqsiFuRfUQqzPZtuKzqub3Q1hyo82tuFa3HQuRWMvC5jynFkDhZDSGudQxwFdQZAyZp8eNGNCrJcj61lyb5l43F0jul6RHHgnUqKOXzX_Au-l1YDXc62EA5LxGfskU0HvIjFOakWnKMvNCcMyhGye5kkou08d8zu1mhMFTSn2HwjINp-ZuGZbkdOkyu1hqe4rBQSmGov85i1Cb-C4P6AD7Ds57-j9PM2aa" height="420" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtkLFuhDAQRH_FQkoZFkIU6ThMd0W6FPmBtb1g62yMdo1O5OtzhEw1r5qnGcLEmEhJ2SPpymR2xL1qruoRXPG9apvm5ao8hdmXf6qUsNWVL2WVHsDg4iymtbY5wS0Zco7cV8SdGDCaLen2o3vvukvbvYGEH9IReSYws81Rd3-BGJb7gc10aacJkMsj811LwhihMC6yItNSdOGN4JjDMC_6QUZCodf1nHuaEaZIIuOAyjNNp-bTMm0SbB0Kh1xbf4rBQZJTNX6fRZldfdYHDIDjAOc54y-mTWUF" height="415" style=""></iframe>
 
-You can listen to our first album on Spotify (click below to go to our Bandcamp page). Our new album is on its way and should arrive at the beginning of 2017\.
+Triosom is our first album released in 2009\. Our new album is on its way and should arrive at the beginning of 2017\.
 [Buy it!][0]
 
 [0]: http://music.itrio.ch/
