@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-10T11:05:56.721Z'
+datePublished: '2017-01-10T11:07:52.523Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-10T11:05:56.249Z'
+dateModified: '2017-01-10T11:07:51.878Z'
 title: Triosom
 app_links: []
 publisher: {}
@@ -35,8 +35,7 @@ _type: MediaObject
 ---
 # Triosom
 
-    <iframe style="border: 0; width: 100%; height: 406px;" src="http://www.cheesecom.com/booking/itrio/presskit/documents/bandcampplayer.html"><a href="http://music.itrio.ch/album/triosom">Triosom by I.Trio</a>
-    </iframe> 
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljzsKwzAQBfucYhGk1ToQUvjXp88F9FlbwpYlpDWObx87Lh7MNAOv9UNWgaDwPlMndMyWcg1VA5u37Gp4VNW9AUd-dFzDs3qlbyOgZNOJbdukcUSFTAzyGOoYJ7-M6Dn7iClTKZNntNGsgRYuqNVijQopzWqnLB2HWfStApdp6IRjTjViWIs38t84-qhmvQY8rcQg-s8FoHd4y1NaVP2txetIDz8i50mO" height="244" style=""></iframe>
 
 [Triosom][0] is our first album released in 2009\. Our new album is on its way and should arrive at the beginning of 2017\.
 [Buy it!][1]
