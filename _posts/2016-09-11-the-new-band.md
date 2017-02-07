@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-07T07:50:20.007Z'
+datePublished: '2017-02-07T09:25:14.481Z'
 sourcePath: _posts/2016-09-11-the-new-band.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-07T07:50:18.464Z'
+dateModified: '2017-02-07T09:25:11.438Z'
 title: The Band
 publisher: {}
 description: >-
