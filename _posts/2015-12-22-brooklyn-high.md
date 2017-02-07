@@ -1,10 +1,10 @@
 ---
+datePublished: '2017-02-07T06:52:28.271Z'
+sourcePath: _posts/2015-12-22-brooklyn-high.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
-inLanguage: en
-starred: false
+authors: []
+hasPage: false
 keywords:
   - duration
   - trio
@@ -16,14 +16,11 @@ keywords:
   - high
   - quintela
   - zico
-description: iTrio live at the Montreux Jazz Festival
-datePublished: '2016-04-12T18:38:15.774Z'
-dateModified: '2016-04-12T18:35:46.687Z'
-author:
-  - name: i.Trio
-    url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
-    avatar: {}
 related: []
+author: []
+via: {}
+dateModified: '2017-02-07T06:52:25.614Z'
+title: Brooklyn High
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
     type: ios
@@ -35,17 +32,17 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
     type: web
-title: Brooklyn High
-authors: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-22-brooklyn-high.md
-published: true
-_type: VideoObject
+publisher: {}
+description: Live at the Montreux Jazz Festival
+inLanguage: en
+starred: false
+datePublishedOriginal: '2016-09-08T12:24:51.310Z'
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+# Brooklyn High
+
+Live at the Montreux Jazz Festival
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKEbOY74UKbU%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKEbOY74UKbU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKEbOY74UKbU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
