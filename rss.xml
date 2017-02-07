@@ -4,9 +4,9 @@
         <description><![CDATA[i.Trio]]></description>
         <link>http://itrio.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Feb 2017 09:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2017 09:25:52 GMT</lastBuildDate>
         <atom:link href="http://itrio.ch/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Feb 2017 09:25:20 GMT</pubDate>
+        <pubDate>Tue, 07 Feb 2017 09:25:21 GMT</pubDate>
         <item>
             <title><![CDATA[Triosom]]></title>
             <description><![CDATA[<h1>Triosom</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkLFygzAQRH9FQx8OGwcnGNGlSJciP3CSDqSxhJiTGEK-PhC22lftm-3cwBhIpLx5koWKbIhbUT3E6ky2rbhX1fzzEJbcaHMrblWzYyESa1nYnOfUAiicjMYwlzoG-AiKjCHz5XEjBvRqCfLS1Le6fr_UV0jul6RHHgnUqKOXw3_Au-l5YNW83YdXQM5r5KdMAb2HzDilGZmmLDMvBMccunGSK6nkMr3M59xuRhg8pdR3KCzTcGrulmFJTpcus4ultqcYHJRiKPrvswi1ic_ygA6w7-C8p_8D28dncA" height="408"></iframe>,<p><a href="http://music.itrio.ch/album/triosom" title="Triosom">Triosom</a> is our first album released in 2009. Our new album is on its way and should arrive at the beginning of 2017.</p>,<a href="http://music.itrio.ch/" data-role="cta">Buy it!</a>]]></description>
@@ -20,6 +20,13 @@
             <link>https://youtu.be/JN_nFmrncmc</link>
             <guid isPermaLink="false">a3db296b-85ef-4da2-bf69-21fb4b8c86c0</guid>
             <pubDate>Tue, 07 Feb 2017 07:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stranger]]></title>
+            <description><![CDATA[<h1>Stranger</h1>,<p>Live at the Musigbistrot Monbijou in Bern</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNjzXIAaS474%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNjzXIAaS474&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNjzXIAaS474%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=NjzXIAaS474</link>
+            <guid isPermaLink="false">9ca44d60-d76c-43a9-bd8c-59e84fa15064</guid>
+            <pubDate>Thu, 08 Sep 2016 14:12:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brooklyn High]]></title>
@@ -48,13 +55,6 @@
             <link>http://itrio.ch/what-the-press-says/index.html</link>
             <guid isPermaLink="false">f8c6a4a4-c321-42c3-92ff-88b4cae6d154</guid>
             <pubDate>Tue, 22 Nov 2016 07:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stranger]]></title>
-            <description><![CDATA[<h1>Stranger</h1>,<p>Live at the Musigbistrot Monbijou in Bern</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNjzXIAaS474%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNjzXIAaS474&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNjzXIAaS474%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=NjzXIAaS474</link>
-            <guid isPermaLink="false">9ca44d60-d76c-43a9-bd8c-59e84fa15064</guid>
-            <pubDate>Thu, 08 Sep 2016 14:12:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
