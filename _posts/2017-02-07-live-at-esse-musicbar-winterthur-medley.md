@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/JN_nFmrncmc'
 title: Live at Esse Musicbar Winterthur Medley
-datePublished: '2017-02-07T06:50:32.157Z'
-dateModified: '2017-02-07T06:50:31.419Z'
+datePublished: '2017-02-07T06:52:26.218Z'
+dateModified: '2017-02-07T06:52:25.614Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-07-live-at-esse-musicbar-winterthur-medley.md
