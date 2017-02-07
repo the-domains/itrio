@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   A little summary of our last gig at The Esse Musicbar in Winterthur on the
   02.02.17 www.itrio.ch booking@itrio.ch
-dateModified: '2017-02-07T07:35:25.055Z'
-datePublished: '2017-02-07T07:35:25.581Z'
+dateModified: '2017-02-07T07:50:18.464Z'
+datePublished: '2017-02-07T07:50:19.761Z'
 title: Live at Esse Musicbar Winterthur Medley
 author:
   - name: i.Trio
