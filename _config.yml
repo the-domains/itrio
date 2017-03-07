@@ -130,3 +130,6 @@ purpose:
   - type: contact
     url: 'mailto:booking@itrio.ch'
     label: Book us!
+author:
+  name: i.Trio
+  email: info@itrio.ch
