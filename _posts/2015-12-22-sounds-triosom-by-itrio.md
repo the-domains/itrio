@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-02T08:44:56.609Z'
+datePublished: '2017-03-24T06:08:32.087Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-03-02T08:44:56.075Z'
+dateModified: '2017-03-24T06:08:31.079Z'
 title: Triosom
 app_links: []
 publisher: {}
@@ -43,5 +43,5 @@ Ask [us][1] if you want to have a pre-listen.
 [Buy it!][2]
 
 [0]: http://music.itrio.ch/album/triosom "Triosom"
-[1]: http://info@itrio.ch/
+[1]: http://itrio.ch/contact "Contact"
 [2]: http://music.itrio.ch/
