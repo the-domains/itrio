@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-03T20:41:53.181Z'
+datePublished: '2017-04-03T20:55:37.324Z'
 sourcePath: _posts/2015-12-22-sounds-triosom-by-itrio.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-04-03T20:41:52.151Z'
+dateModified: '2017-04-03T20:55:35.993Z'
 title: Around The World
 app_links: []
 publisher: {}
@@ -40,7 +40,7 @@ This is our new album. Have a listen!
 
 ## Triosom
 
-Our previous album is still available on every major platform. You can also get is here : 
+Our previous album is still available on every major platform. You can also get it here :
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkLFygzAQRH9FQx8OGwcnGNGlSJciP3CSDqSxhJiTGEK-PhC22lftm-3cwBhIpLx5koWKbIhbUT3E6ky2rbhX1fzzEJbcaHMrblWzYyESa1nYnOfUAiicjMYwlzoG-AiKjCHz5XEjBvRqCfLS1Le6fr_UV0jul6RHHgnUqKOXw3_Au-l5YNW83YdXQM5r5KdMAb2HzDilGZmmLDMvBMccunGSK6nkMr3M59xuRhg8pdR3KCzTcGrulmFJTpcus4ultqcYHJRiKPrvswi1ic_ygA6w7-C8p_8D28dncA" height="408" style=""></iframe>
 
