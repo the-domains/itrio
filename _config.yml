@@ -1,4 +1,3 @@
-layout_spectrum: 0.572036423293302
 typography_spectrum: 0.5504671461958586
 color:
   brandColors:
@@ -16,10 +15,14 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.572036423293302
 analytics:
   google: UA-82649324-1
   facebook: null
   twitter: null
+author:
+  name: i.Trio
+  email: info@itrio.ch
 logo: null
 name: i.Trio
 cta:
@@ -39,6 +42,9 @@ navigation:
   - name: Presskit
     url: 'http://presskit.itrio.ch/'
     type: external
+  - name: Bandcamp
+    url: 'http://itrio.bandcamp.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e667954-bbba-4844-a71a-696440deb2ab.jpg
 title: i.Trio
@@ -52,16 +58,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: i.Trio
-          url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=JN_nFmrncmc'
       keywords:
         - winterthur
         - duration
@@ -73,10 +71,13 @@ content:
         - montreux
         - vega
         - nov2013
-      description: >-
-        A little summary of our last gig at The Esse Musicbar in Winterthur on
-        the 02.02.17 www.itrio.ch booking@itrio.ch
-      inLanguage: en
+      related: []
+      author:
+        - name: i.Trio
+          url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Live at Esse Musicbar Winterthur Medley
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=JN_nFmrncmc&feature=applinks'
@@ -115,10 +116,15 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=JN_nFmrncmc'
-      title: Live at Esse Musicbar Winterthur Medley
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        A little summary of our last gig at The Esse Musicbar in Winterthur on
+        the 02.02.17 www.itrio.ch booking@itrio.ch
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -130,6 +136,3 @@ purpose:
   - type: contact
     url: 'mailto:booking@itrio.ch'
     label: Book us!
-author:
-  name: i.Trio
-  email: info@itrio.ch
