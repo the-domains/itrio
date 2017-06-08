@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-07T09:25:13.734Z'
+datePublished: '2017-06-08T11:23:11.027Z'
 sourcePath: _posts/2015-12-22-brooklyn-high.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-02-07T09:25:11.438Z'
+dateModified: '2017-06-08T11:23:10.387Z'
 title: Brooklyn High
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
