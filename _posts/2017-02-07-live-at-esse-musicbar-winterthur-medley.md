@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   A little summary of our last gig at The Esse Musicbar in Winterthur on the
   02.02.17
-dateModified: '2017-06-08T11:23:10.387Z'
-datePublished: '2017-06-08T11:23:11.020Z'
+dateModified: '2017-06-08T11:34:48.884Z'
+datePublished: '2017-06-08T11:34:49.793Z'
 title: Live at Esse Musicbar
 author: []
 publisher: {}
