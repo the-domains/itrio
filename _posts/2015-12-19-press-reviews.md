@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-06-08T11:23:11.067Z'
+datePublished: '2017-06-08T11:34:49.817Z'
 sourcePath: _posts/2015-12-19-press-reviews.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2017-06-08T11:23:10.387Z'
+dateModified: '2017-06-08T11:34:48.884Z'
 title: What the press says
 publisher:
   name: Matt Cibula - Cave 17
